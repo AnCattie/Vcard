@@ -89,6 +89,12 @@ h5 {
   color: #ffffff
 }
 
+img {
+  border-radius: 50%;
+  border: 1px;
+  opacity:0.8;
+}
+
 .C > img {
     border-radius: 50%;
     border: 1px solid #ddd;
