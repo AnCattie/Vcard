@@ -1,7 +1,7 @@
 .grid {
   display: grid;
-  grid-template-rows: 300px 100px 200px 200px 200px 200px;
-  grid-template-columns: 505px 500px 505px;
+  grid-template-rows: 120px 80px 100px 200px 200px 200px;
+  grid-template-columns: 500px 500px 505px;
   : 33% 33% 33%;
   }
 
@@ -42,9 +42,6 @@ li {
   text-align: left;
   }
 
-.H{
-  }
-
 .meter {
   width: 200px;
 	height: 20px;
@@ -74,14 +71,18 @@ li{
   overflow: hidden;
  }
 
-.I{
+h2 {
+  text-shadow: 2px 2px #2A3190;
+  text-transform: uppercase;
+  text-indent: -300px;
+  letter-spacing: 3px;
+  line-height: 1;
+  font-family: serif;
+
 }
 
 h5 {
   color: #ffffff
-}
-
-.J{
 }
 
 img {
