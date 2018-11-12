@@ -28,6 +28,7 @@ body{
   text-transform: full-width;
   grid-column-start: 1;
   grid-column-end: span 3;
+  text-indent: -600px;
   }
 
 p {
@@ -78,7 +79,7 @@ li{
 h2 {
   text-shadow: 2px 2px #2A3190;
   text-transform: uppercase;
-  text-indent: -300px;
+  text-indent: -650px;
   letter-spacing: 3px;
   line-height: 1;
   font-family: serif;
